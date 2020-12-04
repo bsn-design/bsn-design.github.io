@@ -7,7 +7,7 @@ Carrier is the best way to schedule messages.
 
 **Note:** For your privacy, Apple does not allow us to send messages on your behalf without you taking action. You have to push send when you get the notification. Don't forget!
 
-[![Download](http://media.bsn.design/images/app-store-badge.png)](https://itunes.apple.com/us/app/carrier-messender/id1027638921?pt=2131643&ct=BSNDesignWebsite&mt=8)
+[![Download](https://media.bsn.design/images/app-store-badge.png)](https://itunes.apple.com/us/app/carrier-messender/id1027638921?pt=2131643&ct=BSNDesignWebsite&mt=8)
 
 ![Carrier app](http://www.bsn.design/uploads/2018/afbeca30e8.png)
 ## Why I created this
@@ -39,4 +39,4 @@ As I have worked on this app, my kids have contributed lots of ideas for feature
 We hope this will be as much help for you as it has been for us!
 -Ben
 
-[![Download](http://media.bsn.design/images/app-store-badge.png)](https://itunes.apple.com/us/app/carrier-messender/id1027638921?pt=2131643&ct=BSNDesignWebsite&mt=8)
+[![Download](https://media.bsn.design/images/app-store-badge.png)](https://itunes.apple.com/us/app/carrier-messender/id1027638921?pt=2131643&ct=BSNDesignWebsite&mt=8)

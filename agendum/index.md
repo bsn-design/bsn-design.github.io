@@ -5,7 +5,7 @@ title: Agendum
 
 Agendum is the easiest way to outline and present your text agenda.
 
-[![Download](http://media.bsn.design/images/app-store-badge.png)](https://itunes.apple.com/app/apple-store/id1437361485?mt=8)
+[![Download](https://media.bsn.design/images/app-store-badge.svg)](https://itunes.apple.com/app/apple-store/id1437361485?mt=8)
 
 ![Agendum app](http://www.bsn.design/uploads/2018/20f8eaa11b.png)
 ## Why I created this
@@ -30,4 +30,4 @@ A gorgeous dark theme makes preparing and presenting in low light easy on your e
 I hope this app helps you as much as it has me. Happy outlining!
 -Ben
 
-[![Download](http://media.bsn.design/images/app-store-badge.png)](https://itunes.apple.com/app/apple-store/id1437361485?mt=8)
+[![Download](https://media.bsn.design/images/app-store-badge.png)](https://itunes.apple.com/app/apple-store/id1437361485?mt=8)
