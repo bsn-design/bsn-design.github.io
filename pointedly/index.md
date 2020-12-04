@@ -7,7 +7,7 @@ title: Pointedly
 
 Pointedly is a simple and beautiful way to track points for just about anything. Use it for board games, card games, contests; anything you can think up!
 
-![Pointedly](https://media.bsn.design/images/pointedly.png)
+![Pointedly](https://media.bsn.design/images/pointedly/pointedly.png)
 
 Some of the major features are:
 
