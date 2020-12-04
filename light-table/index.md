@@ -5,7 +5,7 @@ title: Light Table
 
 Light Table is the best tool to help you quickly trace and draw custom illustrations, lettering, and other sketches. It transforms your device into an instant light table that you can carry with you everywhere. This is perfect for serious artists, or even for parents—no more taping pictures on windows!
 
-[![Download](https://media.bsn.design/images/app-store-badge.png)](https://itunes.apple.com/us/app/portable-light-table/id1097012932?mt=8&at=1010lqCX)
+[![Download](https://raw.githubusercontent.com/benjaminsnorris/media.bsn.design/gh-pages/images/app-store-badge.svg)](https://itunes.apple.com/us/app/portable-light-table/id1097012932?mt=8&at=1010lqCX)
 
 ![Light Table](https://media.bsn.design/images/light-table.png)
 
@@ -22,4 +22,4 @@ Light Table make it easy to add your images. You can snap a picture, import from
 ### Trace away
 With the new Outline Mode, it is easier than ever to trace your images. You can scale and rotate the image as needed, adjust the brightness, and then lock the screen. Your image will stay put, your device will not lock, and you can get in the zone.
 
-[![Download](https://media.bsn.design/images/app-store-badge.png)](https://itunes.apple.com/us/app/portable-light-table/id1097012932?mt=8&at=1010lqCX)
+[![Download](https://raw.githubusercontent.com/benjaminsnorris/media.bsn.design/gh-pages/images/app-store-badge.svg)](https://itunes.apple.com/us/app/portable-light-table/id1097012932?mt=8&at=1010lqCX)

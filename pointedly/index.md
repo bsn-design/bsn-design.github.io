@@ -3,7 +3,7 @@ layout: page
 title: Pointedly
 ---
 
-[![Download](https://media.bsn.design/images/app-store-badge.png)](https://itunes.apple.com/app/apple-store/id933257819?pt=2131643&ct=BSNDesignWebsite&mt=8)
+[![Download](https://raw.githubusercontent.com/benjaminsnorris/media.bsn.design/gh-pages/images/app-store-badge.svg)](https://itunes.apple.com/app/apple-store/id933257819?pt=2131643&ct=BSNDesignWebsite&mt=8)
 
 Pointedly is a simple and beautiful way to track points for just about anything. Use it for board games, card games, contests; anything you can think up!
 
@@ -21,4 +21,4 @@ Some of the major features are:
 - Sort players in a game either manually or by winner
 - Full support for iPad multi-tasking
 
-[![Download](https://media.bsn.design/images/app-store-badge.png)](https://itunes.apple.com/app/apple-store/id933257819?pt=2131643&ct=BSNDesignWebsite&mt=8)
+[![Download](https://raw.githubusercontent.com/benjaminsnorris/media.bsn.design/gh-pages/images/app-store-badge.svg)](https://itunes.apple.com/app/apple-store/id933257819?pt=2131643&ct=BSNDesignWebsite&mt=8)

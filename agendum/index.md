@@ -30,4 +30,4 @@ A gorgeous dark theme makes preparing and presenting in low light easy on your e
 I hope this app helps you as much as it has me. Happy outlining!
 -Ben
 
-[![Download](https://media.bsn.design/images/app-store-badge.png)](https://itunes.apple.com/app/apple-store/id1437361485?mt=8)
+[![Download](https://raw.githubusercontent.com/benjaminsnorris/media.bsn.design/gh-pages/images/app-store-badge.svg)](https://itunes.apple.com/app/apple-store/id1437361485?mt=8)
