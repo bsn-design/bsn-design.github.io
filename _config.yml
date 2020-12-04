@@ -19,6 +19,7 @@ email: support@bsn.design
 description: Information and support for BSN Design
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+plausible: bsn.design
 author:
   name: Ben Norris
   twitter:
