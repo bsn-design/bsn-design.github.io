@@ -22,11 +22,11 @@ url: # the base hostname & protocol for your site e.g. "https://mmistakes.github
 plausible: bsn.design
 author:
   name: Ben Norris
-  twitter:
-  picture:
+  twitter: bsndesign
+  picture: /images/profile.jpeg
 twitter_username: bsndesign
 github_username: bsn-design
-logo: /images/profile.jpeg # path of site logo, e.g. "/assets/images/logo.png"
+logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: # true, false (default)
 search_provider: # lunr (default), algolia
