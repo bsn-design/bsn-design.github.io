@@ -26,7 +26,7 @@ author:
   picture: /assets/images/profile.jpeg
 twitter_username: bsndesign
 github_username: bsn-design
-logo: # path of site logo, e.g. "/assets/images/logo.png"
+logo: /assets/images/icon.png # path of site logo, e.g. "/assets/images/logo.png"
 
 # Build settings
 markdown: kramdown
