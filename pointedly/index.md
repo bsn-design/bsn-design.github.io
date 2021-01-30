@@ -7,7 +7,7 @@ title: Pointedly
 
 Pointedly is the simple, beautiful way to track and save points for multiple games. No more fumbling around for a pen and paper—just grab your phone, pull in friends from your contacts or snag photos and get started! Completely free with no ads.
 
-![Pointedly](https://media.bsn.design/images/pointedly/#NewTopicCreationView.textField.png)
+![Pointedly](https://media.bsn.design/images/pointedly/PointedlyBanner-min.jpeg)
 
 ## Major Features
 
