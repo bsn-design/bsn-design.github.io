@@ -31,7 +31,7 @@ When you choose multiple recipients for a message, you will be prompted to creat
 ## Dark theme
 A gorgeous dark theme makes writing and scheduling messages in low light easy on your eyes. And with automatic switching from light to dark themes, you can always have the best experience for the moment.
 
-<img alt="Carrier pro upgrade" class="small" src="https://media.bsn.design/images/carrier/Create.png"/>
+<img alt="Carrier pro upgrade" class="small" src="https://media.bsn.design/images/carrier/Upgrade.png"/>
 ## Pro upgrade
 Carrier is free to use for a limited number of messages each month. When you upgrade to Carrier Pro, you will unlock unlimited messages, the ability to use your voice to create and schedule messages, and help support continued development. Thanks!
 
