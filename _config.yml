@@ -30,7 +30,6 @@ logo: /assets/images/icon.png # path of site logo, e.g. "/assets/images/logo.png
 
 # Build settings
 markdown: kramdown
-remote_theme: benjaminsnorris/jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
