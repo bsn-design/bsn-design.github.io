@@ -1,12 +1,17 @@
 ---
-layout: page
 title: Agendum
 app_id: 1437361485
+excerpt_separator: "<!--more-->"
+date: 2020-05-30 12:00:00-0600
 ---
 
-Agendum is the easiest way to outline and present your text agenda.
+![Agendum](https://media.bsn.design/data/agendum/icon.png)
+
+Agendum is the easiest way to outline and present your text agenda. Quick create simple outlines and present them beautifully with no effort.
 
 [![Download](https://raw.githubusercontent.com/benjaminsnorris/media.bsn.design/gh-pages/images/app-store-badge.svg)](https://itunes.apple.com/app/apple-store/id1437361485?mt=8)
+
+<!--more-->
 
 ![Agendum app](https://media.bsn.design/images/agendum/Agendum.png)
 ## Why I created this

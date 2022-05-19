@@ -1,14 +1,19 @@
 ---
-layout: page
 title: Carrier
 app_id: 1027638921
+excerpt_separator: "<!--more-->"
+date: 2021-11-11 12:00:00-0600
 ---
 
-Carrier is the best way to schedule messages.
+![Carrier](https://media.bsn.design/data/carrier/icon.png)
 
-**Note:** For your privacy, Apple does not allow us to send messages on your behalf without you taking action. You have to push send when you get the notification. Don't forget!
+Carrier is the best way to schedule messages. Write when you think of it, and schedule the message to go when the time is right.
 
 [![Download](https://raw.githubusercontent.com/benjaminsnorris/media.bsn.design/gh-pages/images/app-store-badge.svg)](https://itunes.apple.com/us/app/carrier-messender/id1027638921?pt=2131643&ct=BSNDesignWebsite&mt=8)
+
+<!--more-->
+
+**Note:** For your privacy, Apple does not allow us to send messages on your behalf without you taking action. You have to push send when you get the notification. Don't forget!
 
 ![Carrier app](https://media.bsn.design/images/carrier/Carrier.png)
 
