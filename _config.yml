@@ -63,6 +63,8 @@ collections:
   apps:
     output: true
     permalink: /:collection/:path/
+  presentations:
+    output: true
 
 # Front Matter Defaults
 defaults:
@@ -80,4 +82,12 @@ defaults:
     values:
       layout: page
       read_time: false
+  # _presentations
+  - scope:
+      path: "_presentations"
+      type: presentations
+    values:
+      layout: post
+      read_time: false
+      word_count: false
       
