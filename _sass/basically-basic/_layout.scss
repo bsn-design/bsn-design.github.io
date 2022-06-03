@@ -58,6 +58,10 @@ main {
 
 .inner {
   max-width: $large;
+
+  &.wide {
+    max-width: none;
+  }
 }
 
 /*
