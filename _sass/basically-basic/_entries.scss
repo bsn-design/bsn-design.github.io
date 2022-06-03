@@ -147,6 +147,14 @@
       border-bottom: none;
     }
 
+    &.clients-grid {
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    
+      .client {
+        justify-content: center;
+      }
+    }
+    
     .entry-title {
       @include fluid-type($min-vw, $max-vw, 18px, 24px);
       -webkit-box-ordinal-group: 2;
@@ -190,6 +198,7 @@
 
     .more-link {
       margin-top: -1em;
+      color: $accent-color;
 
       a {
         text-decoration: none;
