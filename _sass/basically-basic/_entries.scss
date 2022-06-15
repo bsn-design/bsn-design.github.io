@@ -13,6 +13,10 @@
 
   a {
     color: inherit;
+
+    &.btn {
+      color: $light-text-color;
+    }
   }
 }
 
