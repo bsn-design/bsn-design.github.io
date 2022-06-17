@@ -10,7 +10,7 @@ permalink: /speaking/
 image: /assets/images/speaking-banner.png
 ---
 
-Public speaking and training have been passions of mine for a couple decades. These are a few examples of talks I have given to groups around the world ranging from executive teams, conferences, and individual contributors.
+Public speaking and training have been passions of mine for a couple decades. These are a few examples of talks I have given to groups around the world ranging from executive teams, conference audiences, and individual contributors.
 
 If you need a speaker or training for your organization, let’s connect and see how I can help you.
 
