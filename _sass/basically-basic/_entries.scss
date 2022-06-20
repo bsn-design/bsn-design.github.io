@@ -87,7 +87,7 @@
     aspect-ratio: 1;
     background-size: cover;
     background-repeat: no-repeat;
-    transition: ease-in-out 300ms;
+    transition: background-image ease-in-out 300ms;
 
     &#mobile {
       background-image: url('/assets/images/mobile.png');

@@ -13,6 +13,7 @@
   text-align: center;
   text-decoration: none;
   cursor: pointer;
+  transition: background-color ease-in-out 300ms;
 
   &:hover {
     background-color: tint($accent-color, 20%);
