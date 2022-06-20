@@ -2,7 +2,6 @@
 title: "🛡 Thoughts on leadership"
 date: 2020-04-13 15:22:00-0600
 tags:
-- favorite
 - leadership
 category: General
 ---
