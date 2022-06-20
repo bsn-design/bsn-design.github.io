@@ -82,6 +82,47 @@
   margin-top: 1rem;
 }
 
+.offerings {
+  .entry-image {
+    aspect-ratio: 1;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: ease-in-out 300ms;
+
+    &#mobile {
+      background-image: url('/assets/images/mobile.png');
+
+      &:hover {
+        background-image: url('/assets/images/mobile-hover.png');
+      }
+    }
+
+    &#leadership {
+      background-image: url('/assets/images/leaders.png');
+
+      &:hover {
+        background-image: url('/assets/images/leaders-hover.png');
+      }
+    }
+
+    &#sketchnotes {
+      background-image: url('/assets/images/sketchnotes.png');
+
+      &:hover {
+        background-image: url('/assets/images/sketchnotes-hover.png');
+      }
+    }
+
+    &#mental-health {
+      background-image: url('/assets/images/mental-health.png');
+
+      &:hover {
+        background-image: url('/assets/images/mental-health-hover.png');
+      }
+    }
+  }
+}
+
 
 /*
    Entry list
