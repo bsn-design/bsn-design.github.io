@@ -31,7 +31,7 @@
           {% endif %}
           {% if page.tags %}
             {% for tag in page.tags %}
-              <span class="meta-item">
+              <span class="byline-item">
                 <span class="icon">{% include icon-tag.svg %}</span>
                 {%- if site.tag_archive_path -%}
                   <a href="{{ tag | slugify | prepend: site.tag_archive_path | relative_url }}" title="{{ site.data.text[site.locale].posts_tagged | default: 'Posts tagged' }} {{ tag }}" rel="tag">{{ tag }}</a>  
