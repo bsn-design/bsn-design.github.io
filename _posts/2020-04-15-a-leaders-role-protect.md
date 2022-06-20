@@ -14,7 +14,7 @@ In my opinion, the most important functions a leader fulfills is to **protect** 
 
 ***
 
-As I mentioned in my article on [trust](https://www.bennorris.org/2020/04/14/leading-through-trust), I enjoy attempting to distill a complicated topic to the simplest terms I feel still capture its essence. In considering all of the many important functions a leader performs, I settled on categorizing them in just two groups: **protect** and **provide**.
+As I mentioned in my article on [trust](/2020/04/14/leading-through-trust), I enjoy attempting to distill a complicated topic to the simplest terms I feel still capture its essence. In considering all of the many important functions a leader performs, I settled on categorizing them in just two groups: **protect** and **provide**.
 
 As a reminder, when I speak of a leader, I do not refer just to those with positional authority. Anyone can be a leader, as illustrated by this definition from [Niel Nickolaisen](https://www.linkedin.com/in/nielnickolaisen), our CIO at O.C. Tanner:
 
@@ -59,4 +59,4 @@ Additionally, we protect the company by defining and executing a process with di
 
 There are so many more things that could be said about the role of a leader to protect, but I am going to stop here. While this is not a comprehensive summary of everything that a leader needs to do, I feel that it is a helpful distillation of one half of the most important functions. 
 
-_In my next article in my [series on leadership](https://www.bennorris.org/2020/04/13/thoughts-on-leadership), I will explore the other half of [a leader’s role: to provide](https://www.bennorris.org/2020/04/17/a-leaders-role-provide)._
+_In my next article in my [series on leadership](/2020/04/13/thoughts-on-leadership), I will explore the other half of [a leader’s role: to provide](/2020/04/17/a-leaders-role-provide)._

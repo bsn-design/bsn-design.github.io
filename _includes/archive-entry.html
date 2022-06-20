@@ -37,14 +37,14 @@
         {% include number-with-commas.html number=post_words %} words
       </span>
     {% endif %}
-    {% if post.categories.size > 0 %}
-      {% for category in post.categories %}
+    {% if post.tags.size > 0 %}
+      {% for tag in post.tags %}
         <span class="byline-item">
-          <span class="icon">{% include icon-bookmark.svg %}</span>
-          {%- if site.category_archive_path -%}
-            <a href="{{ category | slugify | prepend: site.category_archive_path | relative_url }}" title="{{ site.data.text[site.locale].category | default: 'Category' }} {{ category }}" rel="category">{{ category }}</a>  
+          <span class="icon">{% include icon-tag.svg %}</span>
+          {%- if site.tag_archive_path -%}
+            <a href="{{ tag | slugify | prepend: site.tag_archive_path | relative_url }}" title="{{ site.data.text[site.locale].tag | default: 'Tag' }} {{ tag }}" rel="tag">{{ tag }}</a>  
           {%- else -%}
-            {{ category }}
+            {{ tag }}
           {%- endif -%}
         </span>
       {% endfor %}

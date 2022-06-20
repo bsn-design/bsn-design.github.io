@@ -44,25 +44,23 @@
       {% endif %}        
       {% for month in postsInMonth %}
         <div class="taxonomy-section" id="{{ year.name }}-{{ month.name }}">
-          <div class="taxonomy-title">
-            <h3>{{ month.name }}</h3>
-            <div class="entry-meta">
-              <ul>
-                <li class="meta-item">
-                    <span>
-                        <span class="icon">{% include icon-bookmark.svg %}</span>
-                        {% include number-with-commas.html number=month.items.size %} {% if month.items.size == 1 %}post{% else %}posts{% endif %}
-                    </span>
-                </li>
-                <li class="meta-item">
-                    <span>
-                        <span class="icon text">#</span>
-                        {% include number-of-words.html posts=month.items %}
-                    </span>
-                </li>
-              </ul>
-            </div>
-                </div>
+          <h3>{{ month.name }}</h3>
+          <div class="entry-meta">
+            <ul>
+              <li class="meta-item">
+                  <span>
+                      <span class="icon">{% include icon-bookmark.svg %}</span>
+                      {% include number-with-commas.html number=month.items.size %} {% if month.items.size == 1 %}post{% else %}posts{% endif %}
+                  </span>
+              </li>
+              <li class="meta-item">
+                  <span>
+                      <span class="icon text">#</span>
+                      {% include number-of-words.html posts=month.items %}
+                  </span>
+              </li>
+            </ul>
+          </div>
           {% for post in month.items %}
             {% include archive-entry.html %}
           {% endfor %}

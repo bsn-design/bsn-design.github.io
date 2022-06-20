@@ -62,4 +62,4 @@ A good leader builds trust by genuinely caring about other people. When we encou
 
 Trust is the most precious coin a leader possesses. It must be careful cultivated and consciously spent. Almost every action contributes to an increase or a decrease in the trust others have in us. This makes the biggest difference in whether people will choose to follow us, or will reluctantly do what we ask out of obligation.
 
-_In the next article in my [series on leadership](https://www.bennorris.org/2020/04/13/thoughts-on-leadership), I will explore the [role of a leader](https://www.bennorris.org/2020/04/15/a-leaders-role-protect)._
+_In the next article in my [series on leadership](/2020/04/13/thoughts-on-leadership), I will explore the [role of a leader](/2020/04/15/a-leaders-role-protect)._
