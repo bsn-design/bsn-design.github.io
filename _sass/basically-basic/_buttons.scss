@@ -5,7 +5,7 @@
 .btn {
   display: inline-block;
   padding: 0.5em 1em;
-  border: 0;
+  border: 0.15em solid $accent-color;
   border-radius: $border-radius;
   background-color: $accent-color;
   color: $light-text-color;
@@ -25,6 +25,15 @@
 
   .icon {
     margin-right: 0.5em;
+  }
+
+  &.secondary {
+    background-color: $light-text-color;
+    color: $accent-color;
+
+    &:hover {
+      background-color: tint($accent-color, 90%);
+    }
   }
 
   /* block button fills width of parent container */
