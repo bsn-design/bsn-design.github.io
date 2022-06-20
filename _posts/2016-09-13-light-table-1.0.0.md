@@ -5,10 +5,11 @@ tags:
 - release notes
 - light table
 - new app
-short: true
 ---
 
-Light Table is the best tool to help you quickly trace and draw custom illustrations, lettering, and other sketches. It transforms your device into an instant light table that you can carry with you everywhere.
+Light Table is the best tool to help you quickly trace and draw custom illustrations, lettering, and other sketches.
+
+It transforms your device into an instant light table that you can carry with you everywhere.
 
 ## Key Features
 - Dot grid with center crosshairs to help with composition
