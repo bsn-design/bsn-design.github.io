@@ -5,6 +5,7 @@ tags:
 - release notes
 - light table
 - new app
+app_id: 1097012932
 ---
 
 Light Table is the best tool to help you quickly trace and draw custom illustrations, lettering, and other sketches.

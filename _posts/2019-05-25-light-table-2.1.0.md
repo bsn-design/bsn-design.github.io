@@ -5,6 +5,7 @@ tags:
 - release notes
 - light table
 short: true
+app_id: 1097012932
 ---
 
 Thanks for your feedback and suggestions. This version improves support for newer devices and makes some small improvements.

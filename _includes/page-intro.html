@@ -59,6 +59,12 @@
           {% endfor %}
         </ul>
       {% endif %}
+
+      {% if page.app_id %}
+        <div>
+          <a target="_blank" href="https://itunes.apple.com/app/apple-store/id{{ page.app_id }}?mt=8"><img src="https://raw.githubusercontent.com/benjaminsnorris/media.bsn.design/gh-pages/images/app-store-badge.svg" alt="Download on the app store"/></a>
+        </div>
+      {% endif %}
     </div>
   </div>
 </header>

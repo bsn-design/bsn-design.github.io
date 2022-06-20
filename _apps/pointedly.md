@@ -9,8 +9,6 @@ date: 2021-09-20 12:00:00-0600
 
 Pointedly is the simple, beautiful way to track and save points for multiple games. No more fumbling around for a pen and paper—just grab your phone, pull in friends from your contacts or snag photos and get started! Completely free with no ads.
 
-[![Download](https://raw.githubusercontent.com/benjaminsnorris/media.bsn.design/gh-pages/images/app-store-badge.svg)](https://itunes.apple.com/app/apple-store/id933257819?pt=2131643&ct=BSNDesignWebsite&mt=8)
-
 <!--more-->
 
 ![Pointedly](https://media.bsn.design/images/pointedly/PointedlyBanner-min.jpeg)

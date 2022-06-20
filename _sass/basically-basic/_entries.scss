@@ -78,6 +78,11 @@
   }
 }
 
+.entry-download {
+  margin-top: 1rem;
+}
+
+
 /*
    Entry list
    ========================================================================== */
@@ -188,6 +193,12 @@
       > * {
         font-size: 1em;
       }
+    }
+
+    .entry-download {
+      -webkit-box-ordinal-group: 5;
+      -ms-flex-order: 4;
+      order: 4;
     }
 
     .entry-meta {

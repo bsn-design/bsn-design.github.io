@@ -5,6 +5,7 @@ tags:
 - release notes
 - light table
 short: true
+app_id: 1097012932
 ---
 
 Thank you for all the great input on how to improve Light Table. I am thrilled to bring you a major update in version 2.0.

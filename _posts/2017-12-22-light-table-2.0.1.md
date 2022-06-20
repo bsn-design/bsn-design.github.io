@@ -5,6 +5,7 @@ tags:
 - release notes
 - light table
 short: true
+app_id: 1097012932
 ---
 
 This is quick update to fix a crash that some users saw when taking a picture. Sorry about that!
