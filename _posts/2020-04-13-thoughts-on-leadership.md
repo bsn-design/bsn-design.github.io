@@ -4,6 +4,7 @@ date: 2020-04-13 15:22:00-0600
 tags:
 - leadership
 category: General
+canonical_url: https://bennorris.org/2020/04/13/thoughts-on-leadership
 ---
 
 ![People following a leader](https://media.bennorris.org/images/bennorris/uploads/2020/b30d51625a.jpg)

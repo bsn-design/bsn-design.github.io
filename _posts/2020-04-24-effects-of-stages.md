@@ -4,6 +4,7 @@ date: 2020-04-24 10:09:25-0600
 tags:
 - leadership
 category: General
+canonical_url: https://bennorris.org/2020/04/24/effects-of-stages
 ---
 
 ![Team](https://media.bennorris.org/images/bennorris/uploads/2020/eff11e3cd3.jpg)

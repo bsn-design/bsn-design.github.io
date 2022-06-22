@@ -4,6 +4,7 @@ date: 2020-04-15 15:54:18-0600
 tags:
 - leadership
 category: General
+canonical_url: https://bennorris.org/2020/04/15/a-leaders-role-protect
 ---
 
 ![Protect](https://media.bennorris.org/images/bennorris/uploads/2020/6d71210781.jpg)
