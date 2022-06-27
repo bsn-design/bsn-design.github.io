@@ -3,8 +3,8 @@ title: Sketchnotes
 date: 2020-11-20
 duration: 20 min
 image:
-    path: https://media.bennorris.org/images/bennorris/presentations/sketchnotes.jpg
-    thumbnail: https://media.bennorris.org/images/bennorris/presentations/sketchnotes.jpg
+    path: https://media.bennorris.com/images/bennorris/presentations/sketchnotes.jpg
+    thumbnail: https://media.bennorris.com/images/bennorris/presentations/sketchnotes.jpg
 ---
 
 Introduction to visual note taking, including the what, why, and how of sketchnoting.

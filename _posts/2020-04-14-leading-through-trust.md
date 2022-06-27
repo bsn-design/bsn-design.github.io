@@ -4,10 +4,10 @@ date: 2020-04-14 16:01:00-0600
 tags:
 - leadership
 category: General
-canonical_url: https://bennorris.org/2020/04/14/leading-through-trust
+canonical_url: https://bennorris.com/2020/04/14/leading-through-trust
 ---
 
-![Spending trust](https://media.bennorris.org/images/bennorris/uploads/2020/3ef59003d5.jpg)
+![Spending trust](https://media.bennorris.com/images/bennorris/uploads/2020/3ef59003d5.jpg)
 
 As a leader, your most important commodity is **trust**. Every action you take, every word you say, every success you notice or ignore affects the trust others have in you.
 

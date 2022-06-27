@@ -5,7 +5,7 @@ tags:
 - leadership
 category: General
 excerpt_separator: "<!--more-->"
-canonical_url: https://bennorris.org/2021/01/21/communication-synchronicity
+canonical_url: https://bennorris.com/2021/01/21/communication-synchronicity
 ---
 
 A huge part of seeing and treating others as people, as well as increasing efficiency and productivity, involves understanding when to communicate asynchronously, and when to be synchronous.

@@ -4,10 +4,10 @@ date: 2020-04-15 15:54:18-0600
 tags:
 - leadership
 category: General
-canonical_url: https://bennorris.org/2020/04/15/a-leaders-role-protect
+canonical_url: https://bennorris.com/2020/04/15/a-leaders-role-protect
 ---
 
-![Protect](https://media.bennorris.org/images/bennorris/uploads/2020/6d71210781.jpg)
+![Protect](https://media.bennorris.com/images/bennorris/uploads/2020/6d71210781.jpg)
 
 In my opinion, the most important functions a leader fulfills is to **protect** and **provide**. There are many ways in which a leader can do those, and I will first explore how a leader can protect **people**, the **team**, and the **company**.
 

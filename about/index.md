@@ -3,7 +3,7 @@ layout: about
 title: About
 ---
 
-BSN Design is owned and operated by [Ben Norris](https://bennorris.org). The company primarily creates apps for iPhone and iPad, as well as taking on other projects such as sketchnotes, public speaking, presentation creation, and interaction or visual design.
+BSN Design is owned and operated by [Ben Norris](https://bennorris.com). The company primarily creates apps for iPhone and iPad, as well as taking on other projects such as sketchnotes, public speaking, presentation creation, and interaction or visual design.
 
 [![Download](https://raw.githubusercontent.com/benjaminsnorris/media.bsn.design/gh-pages/images/app-store-badge.svg)](https://apps.apple.com/us/developer/bsn-design-llc/id931213436)
 
