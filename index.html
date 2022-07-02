@@ -22,11 +22,13 @@ image: /assets/images/banner.png
     </p>
 </div>
 
-{% include offerings.html %}
+<div class="entry-content">
+    {% include offerings.html %}
 
-<p><a href="/scheduling/" class="btn" data-analytics='"View Schedule", {"props":{"page":"home","location":"offerings"}}'><span class="icon">{% include icon-calendar.svg %}</span>Book some time</a></p>
-
-<h2 id="other-work">Other work</h2>
+    <p><a href="/scheduling/" class="btn" data-analytics='"View Schedule", {"props":{"page":"home","location":"offerings"}}'><span class="icon">{% include icon-calendar.svg %}</span>Book some time</a></p>
+    
+    <h2 id="other-work">Other work</h2>
+</div>
 
 <div class="entries-grid">
     <div class="entry">
@@ -90,16 +92,6 @@ image: /assets/images/banner.png
         </div>
 
         <div class="entry">
-            <p>Ben is an empathetic leader. He is aware of the people he works with and has an amazing ability to make you feel safe to be able to open up and talk about the real things that are happening at work. He is passionate about growing himself, helping others be their best self, and sharing his own story to help others on their journey.</p>
-            <p class="entry-meta">--Jessica D.</p>
-        </div>
-
-        <div class="entry">
-            <p>Ben is one of those people you work with that you want to learn from so that you can be more like them. When Ben speaks he is doing so because he is adding value and insight into the conversation. Ben has an ability to make you feel heard when you disagree, and to easily help you see perspective. In the triad or Product, Design, and Development, Ben is one of only two people who I would hire to do any of them for any product.</p>
-            <p class="entry-meta">--Spencer H.</p>
-        </div>    
-
-        <div class="entry">
             <p>Ben is one of those savant-type technology leaders. He is well versed in Engineering, Design, and Product Management. He carries an intense desire to do what is right for the users of whatever he is building. Working with him has been one of the highlights of my career. His mental health advocacy and openness about his struggles make him an even more exceptional leader. His advocacy is felt by many in the USA; he also presented in India. In India, he was met with huge praise and relief from many people who had been suffering in silence.</p>
             <p class="entry-meta">--Ashley R.</p>
         </div>        
@@ -108,33 +100,21 @@ image: /assets/images/banner.png
             <p>There are people in life who cross your path and leave you baffled by their excellence. Ben Norris is this person. Ben is one of those people who has an immaculate sense of style, aesthetic, clean-cut visuals and vision. When I think of Ben I think of his clean, white desk: Ben is precise, and he is organized. His knowledge and experience of Engineering, UX, AND Product runs deep- which is very much unheard of these days. Furthermore, I had the opportunity to watch Ben take on a leadership position and saw him build a powerful, lean, and delivering team; a team that supported one another but also called each other out on their BS. Ben has my highest esteem- I cannot recommend him enough!</p>
             <p class="entry-meta">--Bryan T.</p>
         </div>        
-        
-        <div class="entry">
-            <p>Ben is a great guy to work with. There are a couple of things that stand out to me about my time working with him. 1) He is a strong advocate for progress within the organization regarding the proper use of technology (future proofing, proper QA, etc.) and regarding mental health awareness. Many of the "taboo" topics around mental health were shared openly which caused me to have better awareness and appreciation for others and their perspectives. 2) Ben is a kind soul. We had the opportunity to travel abroad together with a small group and Ben is a genuine and sincere individual with a big heart and a strong dedication to growth. He's easy to work with and a good friend as well.</p>
-            <p class="entry-meta">--Nils R.</p>
-        </div>        
-        
-        <div class="entry">
-            <p>My experience working with Ben showed me what it looks like to be compassionate and fierce all at once. Ben comes to the table with a strong background in human centered design as well as a deep desire to see his colleagues and direct reports thrive. I have had the pleasure of witnessing Ben's openness about making & learning from mistakes and hope our paths cross again in the future.
-            </p>        
-            <p class="entry-meta">--Caitlin G.</p>
-        </div>        
-
-        <div class="entry">
-            <p>Ben is an excellent person and astute product leader. He is technically skilled and easily able to distill his expertise for consumption by the "business" folks. An excellent cross-functional collaborator willing to apply product feedback from internal stakeholders and clients almost immediately. I would love the opportunity to partner with Ben again and have enjoyed all of the projects we worked on together. Any team would be very lucky to even spend a few hours working with Ben.</p>
-            <p class="entry-meta">--Patrick C.</p>
-        </div>        
-
-        <div class="entry">
-            <p>I had the privilege of reporting directly to Ben as one of his iOS engineers. Ben is an outstanding manager. He is honest, raw, compassionate, aware, and technically well-rounded. He understands the constraints, strengths, and weaknesses his team experiences and is able to lead insightfully because of it. I grew immensely under his guidance and could not recommend working with Ben more. 
-            </p>
-            <p class="entry-meta">--Bethany B.</p>
-        </div>
     </div>
 
     <h2>Get started now</h2>
 
-    <p>If you have or want a mobile app, or if you want your people to work better and enjoy work, let’s talk.</p>
+    <p>If you are ready for help with your mobile app, let’s talk.</p>
 
-    <p><a href="mailto:BSN%20Design%20%3Cinfo%40bsn.design%3E?subject=I%20would%20like%20to%20work%20with%20BSN%20Design" data-analytics='"Email", {"props":{"page":"home","location":"footer"}}' class="btn"><span class="icon">{% include icon-email.svg %}</span>Reach out now</a></p>
+    <p>
+        <a href="/scheduling/" class="btn" data-analytics='"View Schedule", {"props":{"page":"{{ page.title | downcase }}","location":"footer"}}'>
+            <span class="icon">{% include icon-calendar.svg %}</span>
+            Book some time
+        </a>
+
+        <a href="mailto:BSN%20Design%20%3Cinfo%40bsn.design%3E?subject=I%20would%20like%20to%20hire%20BSN%20Design" data-analytics='"Email", {"props":{"page":"{{ page.title | downcase }}","location":"footer"}}' class="btn secondary">
+            <span class="icon">{% include icon-email.svg %}</span>
+            Email me
+        </a>
+    </p>
 </div>

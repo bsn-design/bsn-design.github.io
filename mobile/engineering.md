@@ -33,3 +33,22 @@ I had been tasked with creating a new app for O.C. Tanner that would pull in fun
         <p class="entry-excerpt">The app would have a local cache of data, and so I needed to diagram how data would flow when the user made updates.</p>
     </div>
 </div>
+
+
+## Kind words people have said
+
+<div class="entries-grid">
+    <div class="entry">
+        <p>I had the privilege of reporting directly to Ben as one of his iOS engineers. Ben is an outstanding manager. He is honest, raw, compassionate, aware, and technically well-rounded. He understands the constraints, strengths, and weaknesses his team experiences and is able to lead insightfully because of it. I grew immensely under his guidance and could not recommend working with Ben more. 
+        </p>
+        <p class="entry-meta">--Bethany B.</p>
+    </div>
+    <div class="entry">
+        <p>Ben has been one of my favorite managers to work with. He is compassionate, caring, genuine, encouraging and gives the best advice. Whenever I was lost or needed help, Ben was very good at articulating scenarios, explaining each step thoroughly, and guiding me to the right direction. His influence and passion has helped me become a better programmer and write clean code. I am forever grateful to work with Ben and hope one day I can work with him again.</p>
+        <p class="entry-meta">--Veronica G.</p>
+    </div>
+    <div class="entry">
+        <p>Ben is a great guy to work with. There are a couple of things that stand out to me about my time working with him. 1) He is a strong advocate for progress within the organization regarding the proper use of technology (future proofing, proper QA, etc.) and regarding mental health awareness. Many of the "taboo" topics around mental health were shared openly which caused me to have better awareness and appreciation for others and their perspectives. 2) Ben is a kind soul. We had the opportunity to travel abroad together with a small group and Ben is a genuine and sincere individual with a big heart and a strong dedication to growth. He's easy to work with and a good friend as well.</p>
+        <p class="entry-meta">--Nils R.</p>
+    </div>        
+</div>
