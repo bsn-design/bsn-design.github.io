@@ -5,7 +5,7 @@ excerpt_separator: "<!--more-->"
 date: 2020-05-30 12:00:00-0600
 ---
 
-![Agendum](https://media.bsn.design/data/agendum/icon.png)
+![Agendum](/assets/images/AgendumIcon.png){:.app-icon}
 
 Agendum is the easiest way to outline and present your text agenda. Quick create simple outlines and present them beautifully with no effort.
 

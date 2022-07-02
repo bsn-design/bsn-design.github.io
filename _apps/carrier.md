@@ -5,7 +5,7 @@ excerpt_separator: "<!--more-->"
 date: 2021-11-11 12:00:00-0600
 ---
 
-![Carrier](https://media.bsn.design/data/carrier/icon.png)
+![Carrier](/assets/images/CarrierIcon.png){:.app-icon}
 
 Carrier is the best way to schedule messages. Write when you think of it, and schedule the message to go when the time is right.
 

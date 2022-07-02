@@ -5,7 +5,7 @@ excerpt_separator: "<!--more-->"
 date: 2021-09-20 12:00:00-0600
 ---
 
-![Pointedly](https://media.bsn.design/data/pointedly/icon.png)
+![Pointedly](/assets/images/PointedlyIcon.png){:.app-icon}
 
 Pointedly is the simple, beautiful way to track and save points for multiple games. No more fumbling around for a pen and paper—just grab your phone, pull in friends from your contacts or snag photos and get started! Completely free with no ads.
 
