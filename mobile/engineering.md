@@ -1,6 +1,6 @@
 ---
 title: Engineering
-layout: landing
+layout: work
 permalink: /mobile/engineering/
 ---
 

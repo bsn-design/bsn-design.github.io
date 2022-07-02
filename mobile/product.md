@@ -1,6 +1,6 @@
 ---
 title: Product
-layout: landing
+layout: work
 permalink: /mobile/product/
 ---
 

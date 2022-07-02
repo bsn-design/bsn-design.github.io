@@ -1,6 +1,6 @@
 ---
 title: Design
-layout: landing
+layout: work
 permalink: /mobile/design/
 ---
 
