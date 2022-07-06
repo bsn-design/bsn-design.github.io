@@ -7,8 +7,10 @@ permalink: /mobile/design/
 ## Experience
 
 Most of my career has involved user experience and user interface design, including for the industry-leading wireframe software company [Balsamiq](https://balsamiq.com).
+{:.inner}
 
 For the past few years, I have focused on mobile app design, both designing [my own apps](/apps/), as well as enterprise mobile design for iOS and Android at [O.C.&nbsp;Tanner](https://www.octanner.com).
+{:.inner}
 
 
 ## Work example

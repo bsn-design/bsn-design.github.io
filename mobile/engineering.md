@@ -7,8 +7,10 @@ permalink: /mobile/engineering/
 ## Experience
 
 I have worked in software for a decade and a half. Much of that time has been spent as an engineer or engineering leader.
+{:.inner}
 
 I have [published my own apps](/apps/), as well as built apps on an internal team and as a contractor.
+{:.inner}
 
 
 ## Work Example

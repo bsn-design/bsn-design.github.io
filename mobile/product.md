@@ -7,8 +7,10 @@ permalink: /mobile/product/
 ## Experience
 
 I started in product management as the first product owner at [Waterford Institute](https://waterford.org) in 2010. I returned officially to that world in 2020 as I became the mobile product manager as well as engineering manager at [O.C. Tanner](https://www.octanner.com).
+{:.inner}
 
 Having been an engineer and a designer, I am comfortable navigating the differences between those groups, and can help them work together most effectively.
+{:.inner}
 
 
 ## Work example
