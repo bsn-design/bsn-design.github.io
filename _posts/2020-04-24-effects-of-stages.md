@@ -4,10 +4,10 @@ date: 2020-04-24 10:09:25-0600
 tags:
 - leadership
 category: General
-canonical_url: https://bennorris.org/2020/04/24/effects-of-stages
+canonical_url: https://bennorris.com/2020/04/24/effects-of-stages
 ---
 
-![Team](https://media.bennorris.org/images/bennorris/uploads/2020/eff11e3cd3.jpg)
+![Team](https://media.bennorris.com/images/bennorris/uploads/2020/eff11e3cd3.jpg)
 
 Leadership permeates our lives. Good leadership has the ability to uplift, just as poor leadership corrodes. We will consider the effects in terms of **team makeup**, **team perspective**, and **team health**.
 

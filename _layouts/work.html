@@ -1,0 +1,50 @@
+---
+layout: landing
+---
+
+<div class="entry-content">
+    <p>
+        <a href="/scheduling/" class="btn" data-analytics='"View Schedule", {"props":{"page":"{{ page.title | downcase }}","location":"header"}}'>
+            <span class="icon">{% include icon-calendar.svg %}</span>
+            Book some time
+        </a>
+    
+        <a href="mailto:BSN%20Design%20%3Cinfo%40bsn.design%3E?subject=I%20would%20like%20to%20hire%20BSN%20Design" data-analytics='"Email", {"props":{"page":"{{ page.title | downcase }}","location":"header"}}' class="btn secondary">
+            <span class="icon">{% include icon-email.svg %}</span>
+            Email me
+        </a>
+    </p>
+
+    {{ content }}
+
+    <div>
+        <p>If you are ready to see how I can help you, reach out now:</p>
+        <p>
+            <a href="/scheduling/" class="btn" data-analytics='"View Schedule", {"props":{"page":"{{ page.title | downcase }}","location":"center"}}'>
+                <span class="icon">{% include icon-calendar.svg %}</span>
+                Book some time
+            </a>
+
+            <a href="mailto:BSN%20Design%20%3Cinfo%40bsn.design%3E?subject=I%20would%20like%20to%20hire%20BSN%20Design" data-analytics='"Email", {"props":{"page":"{{ page.title | downcase }}","location":"center"}}' class="btn secondary">
+                <span class="icon">{% include icon-email.svg %}</span>
+                Email me
+            </a>
+        </p>
+    </div>
+    <hr/>
+    <h2>Mobile help I offer</h2>
+    
+    {% include offerings.html %}
+    
+    <p>
+        <a href="/scheduling/" class="btn" data-analytics='"View Schedule", {"props":{"page":"{{ page.title | downcase }}","location":"footer"}}'>
+            <span class="icon">{% include icon-calendar.svg %}</span>
+            Book some time
+        </a>
+    
+        <a href="mailto:BSN%20Design%20%3Cinfo%40bsn.design%3E?subject=I%20would%20like%20to%20hire%20BSN%20Design" data-analytics='"Email", {"props":{"page":"{{ page.title | downcase }}","location":"footer"}}' class="btn secondary">
+            <span class="icon">{% include icon-email.svg %}</span>
+            Email me
+        </a>
+    </p>
+</div>

@@ -4,7 +4,7 @@ date: 2020-05-12 13:09:00-0600
 tags:
 - leadership
 category: General
-canonical_url: https://bennorris.org/2020/05/12/remote-work-thoughts
+canonical_url: https://bennorris.com/2020/05/12/remote-work-thoughts
 ---
 
 My manager asked us to write up our thoughts on remote work, as we have all experienced a form of it in this pandemic. I decided I wanted to share my thoughts more broadly. With some edits for a more general audience, the text below is what I sent out.

@@ -16,7 +16,7 @@
 lang: en-US
 title: BSN Design
 email: info@bsn.design
-description: Mobile app consulting, leadership development, sketchnotes, and mental health advocacy.
+description: If you have or need a mobile app, I can help
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://bsn.design # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 plausible: bsn.design

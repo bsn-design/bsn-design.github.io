@@ -3,8 +3,8 @@ title: Leadership
 date: 2020-11-20
 duration: 20 min
 image:
-    path: https://media.bennorris.org/images/bennorris/presentations/leadership.png
-    thumbnail: https://media.bennorris.org/images/bennorris/presentations/leadership.png
+    path: https://media.bennorris.com/images/bennorris/presentations/leadership.png
+    thumbnail: https://media.bennorris.com/images/bennorris/presentations/leadership.png
 ---
 
 Training on how to become better leaders, and the different styles or stages of leadership.
@@ -27,30 +27,30 @@ As I worked on my presentation, I was helped immensely by my good friend [Jessic
 
 ### [Leading through trust](/2020/04/14/leading-through-trust)
 
-![Spending trust](https://media.bennorris.org/images/bennorris/uploads/2020/3ef59003d5.jpg)
+![Spending trust](https://media.bennorris.com/images/bennorris/uploads/2020/3ef59003d5.jpg)
 
 As a leader, your most important commodity is **trust**. Every action you take, every word you say, every success you notice or ignore affects the trust others have in you.
 
 ### [A leader’s role: protect](/2020/04/15/a-leaders-role-protect)
 
-![Protect](https://media.bennorris.org/images/bennorris/uploads/2020/6d71210781.jpg)
+![Protect](https://media.bennorris.com/images/bennorris/uploads/2020/6d71210781.jpg)
 
 In my opinion, the most important functions a leader fulfills is to **protect** and **provide**. There are many ways in which a leader can do those, and I will first explore how a leader can protect **people**, the **team**, and the **company**.
 
 ### [A leader’s role: provide](/2020/04/17/a-leaders-role-provide)
 
-![Provide](https://media.bennorris.org/images/bennorris/uploads/2020/4b4fadf9a0.jpg)
+![Provide](https://media.bennorris.com/images/bennorris/uploads/2020/4b4fadf9a0.jpg)
 
 I believe that the most important roles a leader must serve are to **protect** and **provide**. I want to explore this further by considering how a leader can provide **support**, **clarity**, and **results**.
 
 ### [Stages of leadership](/2020/04/21/stages-of-leadership)
 
-![Leadership stages](https://media.bennorris.org/images/bennorris/uploads/2020/66d881cc81.jpg)
+![Leadership stages](https://media.bennorris.com/images/bennorris/uploads/2020/66d881cc81.jpg)
 
 Most people transition through three stages of leadership, whether consciously or not. These stages are the **cruel tyrant**, the **benevolent dictator**, and the **servant leader**.
 
 ### [Effects of stages](/2020/04/24/effects-of-stages)
 
-![Team](https://media.bennorris.org/images/bennorris/uploads/2020/eff11e3cd3.jpg)
+![Team](https://media.bennorris.com/images/bennorris/uploads/2020/eff11e3cd3.jpg)
 
 Leadership permeates our lives. Good leadership has the ability to uplift, just as poor leadership corrodes. We will consider the effects in terms of **team makeup**, **team perspective**, and **team health**.

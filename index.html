@@ -5,12 +5,12 @@ image: /assets/images/banner.png
 ---
 
 <div class="entry-content inner">
-    <h2>I’ll help you design your win</h2>
+    <h2>If you have or need a mobile app, I can help</h2>
     
-    <p>My expertise is mobile apps. If you have needs around ideas, product, design, or engineering for a mobile app, I can help. I can also provide training and support to your organization around leadership, sketchnotes, and mental health awareness.</p>
+    <p>My expertise is mobile apps. With deep experience in engineering, product management, and design, I can help in any stage of your technical journey. I have built enterprise apps with teams and customers around the world, as well as simple and powerful consumer apps, and I will help you succeed.</p>
     
     <p>
-        <a href="mailto:BSN%20Design%20%3Cinfo%40bsn.design%3E?subject=I%20would%20like%20to%20hire%20BSN%20Design" class="btn">
+        <a href="mailto:BSN%20Design%20%3Cinfo%40bsn.design%3E?subject=I%20would%20like%20to%20hire%20BSN%20Design" data-analytics='"Email", {"props":{"page":"home","location":"header"}}' class="btn">
             <span class="icon">{% include icon-email.svg %}</span>
             Reach out now
         </a>
@@ -22,60 +22,45 @@ image: /assets/images/banner.png
     </p>
 </div>
 
-<div class="entries-grid offerings">
+<div class="entry-content">
+    {% include offerings.html %}
+
+    <p><a href="/scheduling/" class="btn" data-analytics='"View Schedule", {"props":{"page":"home","location":"offerings"}}'><span class="icon">{% include icon-calendar.svg %}</span>Book some time</a></p>
+    
+    <h2 id="other-work">Other work</h2>
+</div>
+
+<div class="entries-grid">
     <div class="entry">
-        <h3 class="entry-title">Mobile app consulting</h3>
-        <p id="mobile" class="entry-image" alt="Mobile consulting">
-        <p class="entry-excerpt">As an experienced mobile engineering leader, I will help you with the <strong>engineering</strong>, <strong>design</strong>, and <strong>strategy</strong> for your mobile offerings. If you have or want a mobile app, <strong><a href="/scheduling/">we should talk</a></strong>.</p>
+        <h3 class="entry-title">Custom apps</h3>
+        <img class="align-center" src="/assets/images/apps.png" alt="Apps">
+        <p class="entry-excerpt">Over the past decade, I have designed and coded a number of custom apps. Check out some of them on the App Store.</p>
+        <p class="entry-excerpt more-link"><a href="/apps/" class="more-link">View more <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></p>
     </div>
 
     <div class="entry">
-        <h3 class="entry-title">Leadership development</h3>
-        <p id="leadership" class="entry-image" alt="Leadership development">
-        <p class="entry-excerpt">Are your managers, directors, and executives the <strong>best leaders</strong> they could be? I provide <strong>actionable training</strong> that will help your people lead with <strong>authentic humanity</strong>.</p>
+        <h3 class="entry-title">Coaching</h3>
+        <img class="align-center" src="/assets/images/coaching.png" alt="Coaching">
+        <p class="entry-excerpt">If you are a business owner responsible for a mobile app or team, or a people leader, I can share my experience and help you thrive.</p>
+        <p class="entry-excerpt more-link"><a href="/scheduling/" data-analytics='"View Schedule", {"props":{"page":"home","location":"mobile"}}' class="more-link">Schedule time <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></p>
     </div>
 
     <div class="entry">
-        <h3 class="entry-title">Sketchnotes</h3>
-        <p id="sketchnotes" class="entry-image" alt="Sketchnotes">
-        <p class="entry-excerpt"><strong>Enhance your conference</strong> and provide attendees a memorable summary, <strong>improve your presentations</strong>, or <strong>inspire your people</strong> to be more creative by having me <strong>create or teach sketchnotes</strong>.</p>
+        <h3 class="entry-title">Speaking</h3>
+        <img class="align-center" src="/assets/images/presentations.png" alt="Presentations">
+        <p class="entry-excerpt">I am an experienced and engaging speaker and enjoy creating beautiful presentations. See some of the talks I have given to executive and development teams.</p>
+        <p class="entry-excerpt more-link"><a href="/speaking/" class="more-link">Explore more <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></p>
     </div>
 
     <div class="entry">
-        <h3 class="entry-title">Mental health awareness</h3>
-        <p id="mental-health" class="entry-image" alt="Mental health">
-        <p class="entry-excerpt">More people now than ever are <strong>dealing with mental health challenges</strong>. Those who are not personally affected <strong>need help to support</strong> those who are. I provide coaching on <strong>how to live and lead</strong> through mental illnesses.</p>
+        <h3 class="entry-title">Weekly articles</h3>
+        <img class="entry-image rounded" src="https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/need-for-journaling.jpg" alt="Need for journaling">
+        <p class="entry-excerpt">On my personal blog, I publish weekly about mental health, as well as leadership and other professional and personal topics.</p>
+        <p class="entry-excerpt more-link"><a href="https://bennorris.com" class="more-link">Read more <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></p>
     </div>
 </div>
 
-<p><a href="/scheduling/" class="btn"><span class="icon">{% include icon-calendar.svg %}</span>Book some time</a></p>
-
 <div class="entry-content">
-    <h2 id="my-work">My work</h2>
-
-    <div class="entries-grid">
-        <div class="entry">
-            <h3 class="entry-title">Custom apps</h3>
-            <img class="align-center" src="/assets/images/apps.png" alt="Apps">
-            <p class="entry-excerpt">Over the past decade, I have designed and coded a number of custom apps. Check out some of them on the App Store.</p>
-            <p class="entry-excerpt more-link"><a href="/apps/" class="more-link">View more <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></p>
-        </div>
-
-        <div class="entry">
-            <h3 class="entry-title">Speaking</h3>
-            <img class="align-center" src="/assets/images/presentations.png" alt="Presentations">
-            <p class="entry-excerpt">I am an experienced and engaging speaker and enjoy creating beautiful presentations. See some of the talks I have given to executive and development teams.</p>
-            <p class="entry-excerpt more-link"><a href="/speaking/" class="more-link">Explore more <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></p>
-        </div>
-
-        <div class="entry">
-            <h3 class="entry-title">Weekly articles</h3>
-            <img class="entry-image rounded" src="https://media.bennorris.org/images/mentalworkhealth/posts/thumbnails/need-for-journaling.jpg" alt="Need for journaling">
-            <p class="entry-excerpt">On my personal blog, I publish weekly about mental health, as well as leadership and other professional and personal topics.</p>
-            <p class="entry-excerpt more-link"><a href="https://bennorris.org" class="more-link">Read more <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></p>
-        </div>
-    </div>
-
     <h2 id="some-clients">Some clients</h2>
 
     <div class="entries-grid clients-grid">
@@ -107,16 +92,6 @@ image: /assets/images/banner.png
         </div>
 
         <div class="entry">
-            <p>Ben is an empathetic leader. He is aware of the people he works with and has an amazing ability to make you feel safe to be able to open up and talk about the real things that are happening at work. He is passionate about growing himself, helping others be their best self, and sharing his own story to help others on their journey.</p>
-            <p class="entry-meta">--Jessica D.</p>
-        </div>
-
-        <div class="entry">
-            <p>Ben is one of those people you work with that you want to learn from so that you can be more like them. When Ben speaks he is doing so because he is adding value and insight into the conversation. Ben has an ability to make you feel heard when you disagree, and to easily help you see perspective. In the triad or Product, Design, and Development, Ben is one of only two people who I would hire to do any of them for any product.</p>
-            <p class="entry-meta">--Spencer H.</p>
-        </div>    
-
-        <div class="entry">
             <p>Ben is one of those savant-type technology leaders. He is well versed in Engineering, Design, and Product Management. He carries an intense desire to do what is right for the users of whatever he is building. Working with him has been one of the highlights of my career. His mental health advocacy and openness about his struggles make him an even more exceptional leader. His advocacy is felt by many in the USA; he also presented in India. In India, he was met with huge praise and relief from many people who had been suffering in silence.</p>
             <p class="entry-meta">--Ashley R.</p>
         </div>        
@@ -125,33 +100,21 @@ image: /assets/images/banner.png
             <p>There are people in life who cross your path and leave you baffled by their excellence. Ben Norris is this person. Ben is one of those people who has an immaculate sense of style, aesthetic, clean-cut visuals and vision. When I think of Ben I think of his clean, white desk: Ben is precise, and he is organized. His knowledge and experience of Engineering, UX, AND Product runs deep- which is very much unheard of these days. Furthermore, I had the opportunity to watch Ben take on a leadership position and saw him build a powerful, lean, and delivering team; a team that supported one another but also called each other out on their BS. Ben has my highest esteem- I cannot recommend him enough!</p>
             <p class="entry-meta">--Bryan T.</p>
         </div>        
-        
-        <div class="entry">
-            <p>Ben is a great guy to work with. There are a couple of things that stand out to me about my time working with him. 1) He is a strong advocate for progress within the organization regarding the proper use of technology (future proofing, proper QA, etc.) and regarding mental health awareness. Many of the "taboo" topics around mental health were shared openly which caused me to have better awareness and appreciation for others and their perspectives. 2) Ben is a kind soul. We had the opportunity to travel abroad together with a small group and Ben is a genuine and sincere individual with a big heart and a strong dedication to growth. He's easy to work with and a good friend as well.</p>
-            <p class="entry-meta">--Nils R.</p>
-        </div>        
-        
-        <div class="entry">
-            <p>My experience working with Ben showed me what it looks like to be compassionate and fierce all at once. Ben comes to the table with a strong background in human centered design as well as a deep desire to see his colleagues and direct reports thrive. I have had the pleasure of witnessing Ben's openness about making & learning from mistakes and hope our paths cross again in the future.
-            </p>        
-            <p class="entry-meta">--Caitlin G.</p>
-        </div>        
-
-        <div class="entry">
-            <p>Ben is an excellent person and astute product leader. He is technically skilled and easily able to distill his expertise for consumption by the "business" folks. An excellent cross-functional collaborator willing to apply product feedback from internal stakeholders and clients almost immediately. I would love the opportunity to partner with Ben again and have enjoyed all of the projects we worked on together. Any team would be very lucky to even spend a few hours working with Ben.</p>
-            <p class="entry-meta">--Patrick C.</p>
-        </div>        
-
-        <div class="entry">
-            <p>I had the privilege of reporting directly to Ben as one of his iOS engineers. Ben is an outstanding manager. He is honest, raw, compassionate, aware, and technically well-rounded. He understands the constraints, strengths, and weaknesses his team experiences and is able to lead insightfully because of it. I grew immensely under his guidance and could not recommend working with Ben more. 
-            </p>
-            <p class="entry-meta">--Bethany B.</p>
-        </div>
     </div>
 
     <h2>Get started now</h2>
 
-    <p>If you have or want a mobile app, or if you want your people to work better and enjoy work, let’s talk.</p>
+    <p>If you are ready for help with your mobile app, let’s talk.</p>
 
-    <p><a href="mailto:BSN%20Design%20%3Cinfo%40bsn.design%3E?subject=I%20would%20like%20to%20work%20with%20BSN%20Design" class="btn"><span class="icon">{% include icon-email.svg %}</span>Reach out now</a></p>
+    <p>
+        <a href="/scheduling/" class="btn" data-analytics='"View Schedule", {"props":{"page":"{{ page.title | downcase }}","location":"footer"}}'>
+            <span class="icon">{% include icon-calendar.svg %}</span>
+            Book some time
+        </a>
+
+        <a href="mailto:BSN%20Design%20%3Cinfo%40bsn.design%3E?subject=I%20would%20like%20to%20hire%20BSN%20Design" data-analytics='"Email", {"props":{"page":"{{ page.title | downcase }}","location":"footer"}}' class="btn secondary">
+            <span class="icon">{% include icon-email.svg %}</span>
+            Email me
+        </a>
+    </p>
 </div>

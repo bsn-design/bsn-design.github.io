@@ -4,10 +4,10 @@ date: 2020-04-21 12:18:59-0600
 tags:
 - leadership
 category: General
-canonical_url: https://bennorris.org/2020/04/21/stages-of-leadership
+canonical_url: https://bennorris.com/2020/04/21/stages-of-leadership
 ---
 
-![Leadership stages](https://media.bennorris.org/images/bennorris/uploads/2020/66d881cc81.jpg)
+![Leadership stages](https://media.bennorris.com/images/bennorris/uploads/2020/66d881cc81.jpg)
 
 Most people transition through three stages of leadership, whether consciously or not. These stages are the **cruel tyrant**, the **benevolent dictator**, and the **servant leader**.
 
@@ -24,7 +24,7 @@ The three stages of leadership that I have come up with exist on a spectrum, fro
 
 ## Cruel tyrant
 
-![Cruel tyrant](https://media.bennorris.org/images/bennorris/uploads/2020/2b1deaf64a.jpg)
+![Cruel tyrant](https://media.bennorris.com/images/bennorris/uploads/2020/2b1deaf64a.jpg)
 
 A defining characteristic of a leader who is a cruel tyrant is that they seek to influence others by **punishing bad behavior**. They resort to threats or wield positional authority to ensure that all of their demands are met. They focus not on people, but on the behavior of those people, and try to shape it into what they want to happen.
 
@@ -39,7 +39,7 @@ Most of us know what it is like to work with a leader in this stage, and find th
 
 ## Benevolent dictator
 
-![Benevolent dictator](https://media.bennorris.org/images/bennorris/uploads/2020/cd63b96ebe.jpg)
+![Benevolent dictator](https://media.bennorris.com/images/bennorris/uploads/2020/cd63b96ebe.jpg)
 
 The mark of a benevolent dictator is that they try to influence others by **rewarding good behavior**. Again, they focus not on people, but rather their actions and try to shape them into something more desirable. They seem to be offering a lollipop, but in fact hide the sword that is implied in failing to measure up.
 
@@ -54,7 +54,7 @@ Again, most of us know what it feels like to work with a leader in this stage. W
 
 ## Servant leader
 
-![Servant leader](https://media.bennorris.org/images/bennorris/uploads/2020/6d97c02170.jpg)
+![Servant leader](https://media.bennorris.com/images/bennorris/uploads/2020/6d97c02170.jpg)
 
 The quality that distinguishes a servant leader is that they **unblock and trust** people. They see others as people, and take the time to get to know them and understand their strengths and limitations, and work to shape the environment to foster success. Only when operating this way can a leader truly perform their role to [protect](/2020/04/15/a-leaders-role-protects) and [provide](/2020/04/17/a-leaders-role-provide).
 
