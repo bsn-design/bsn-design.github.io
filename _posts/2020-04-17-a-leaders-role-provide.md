@@ -3,7 +3,6 @@ title: "🛡 A leader’s role: provide"
 date: 2020-04-17 13:10:39-0600
 tags:
 - leadership
-category: General
 canonical_url: https://bennorris.com/2020/04/17/a-leaders-role-provide
 ---
 

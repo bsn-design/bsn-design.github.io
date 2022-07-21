@@ -3,7 +3,6 @@ title: "🛡 A leader’s role: protect"
 date: 2020-04-15 15:54:18-0600
 tags:
 - leadership
-category: General
 canonical_url: https://bennorris.com/2020/04/15/a-leaders-role-protect
 ---
 

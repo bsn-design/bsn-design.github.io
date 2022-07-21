@@ -3,7 +3,6 @@ title: "🛡 Remote work thoughts"
 date: 2020-05-12 13:09:00-0600
 tags:
 - leadership
-category: General
 canonical_url: https://bennorris.com/2020/05/12/remote-work-thoughts
 ---
 

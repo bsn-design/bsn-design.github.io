@@ -3,7 +3,6 @@ title: "🛡 Leading through trust"
 date: 2020-04-14 16:01:00-0600
 tags:
 - leadership
-category: General
 canonical_url: https://bennorris.com/2020/04/14/leading-through-trust
 ---
 

@@ -3,7 +3,6 @@ title: "🛡 Stages of leadership"
 date: 2020-04-21 12:18:59-0600
 tags:
 - leadership
-category: General
 canonical_url: https://bennorris.com/2020/04/21/stages-of-leadership
 ---
 
