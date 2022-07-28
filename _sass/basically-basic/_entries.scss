@@ -82,6 +82,17 @@
   margin-top: 1rem;
 }
 
+
+/*
+   Offerings
+   ========================================================================== */
+
+.entry-content {
+  .offering-image {
+    max-width: 30rem;
+  }
+}
+
 .offerings {
   .entry-image {
     opacity: 0;
@@ -89,7 +100,7 @@
 
   .entry-image-link {
     aspect-ratio: 1;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     transition: background-image ease-in-out 300ms;
   }
