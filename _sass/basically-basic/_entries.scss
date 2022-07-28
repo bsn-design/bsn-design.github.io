@@ -84,55 +84,69 @@
 
 .offerings {
   .entry-image {
+    opacity: 0;
+  }
+
+  .entry-image-link {
     aspect-ratio: 1;
     background-size: cover;
     background-repeat: no-repeat;
     transition: background-image ease-in-out 300ms;
+  }
+  
+  .engineering-offering .entry-image-link {
+    background-image: url('/assets/images/mobile.png');
 
-    &#mobile {
-      background-image: url('/assets/images/mobile.png');
-
-      &:hover {
-        background-image: url('/assets/images/mobile-hover.png');
-      }
+    &:hover {
+      background-image: url('/assets/images/mobile-hover.png');
     }
+  }
 
-    &#leadership {
-      background-image: url('/assets/images/leaders.png');
+  .design-offering .entry-image-link {
+    background-image: url('/assets/images/sketchnotes.png');
 
-      &:hover {
-        background-image: url('/assets/images/leaders-hover.png');
-      }
+    &:hover {
+      background-image: url('/assets/images/sketchnotes-hover.png');
     }
+  }
+  
+  .product-offering .entry-image-link {
+    background-image: url('/assets/images/leaders.png');
 
-    &#sketchnotes {
-      background-image: url('/assets/images/sketchnotes.png');
-
-      &:hover {
-        background-image: url('/assets/images/sketchnotes-hover.png');
-      }
-    }
-
-    &#mental-health {
-      background-image: url('/assets/images/mental-health.png');
-
-      &:hover {
-        background-image: url('/assets/images/mental-health-hover.png');
-      }
+    &:hover {
+      background-image: url('/assets/images/leaders-hover.png');
     }
   }
 }
 
-.engineering .engineering-offering .more-link {
-  display: none;
+.engineering .engineering-offering {
+  .entry-image-link {
+    background-image: url('/assets/images/mobile-hover.png');
+  }
+
+  .more-link {
+    display: none;
+  }
 }
 
-.design .design-offering .more-link {
-  display: none;
+.design .design-offering {
+  .entry-image-link {
+    background-image: url('/assets/images/sketchnotes-hover.png');
+  }
+
+  .more-link {
+    display: none;
+  }
 }
 
-.product .product-offering .more-link {
-  display: none;
+.product .product-offering {
+  .entry-image-link {
+    background-image: url('/assets/images/leaders-hover.png');
+  }
+
+  .more-link {
+    display: none;
+  }
 }
 
 
