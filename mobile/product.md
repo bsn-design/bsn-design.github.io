@@ -2,6 +2,8 @@
 title: Product
 layout: work
 permalink: /mobile/product/
+introduction: |
+    ![Product management](/assets/images/leaders-hover.png){:.offering-image}
 ---
 
 ## Experience

@@ -2,6 +2,8 @@
 title: Design
 layout: work
 permalink: /mobile/design/
+introduction: |
+    ![Design](/assets/images/sketchnotes-hover.png){:.offering-image}
 ---
 
 ## Experience
