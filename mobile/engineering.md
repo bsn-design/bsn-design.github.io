@@ -2,9 +2,9 @@
 title: Engineering
 layout: work
 permalink: /mobile/engineering/
-introduction: |
-    ![Engineering](/assets/images/mobile-hover.png){:.offering-image}
 ---
+
+![Engineering](/assets/images/mobile-hover.png){:.offering-image}
 
 ## Experience
 
