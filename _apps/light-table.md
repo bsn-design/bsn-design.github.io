@@ -1,7 +1,6 @@
 ---
 title: Light Table
 app_id: 1097012932
-excerpt_separator: "<!--more-->"
 date: 2019-05-25 12:00:00-0600
 ---
 

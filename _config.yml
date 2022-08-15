@@ -85,7 +85,8 @@ defaults:
     values:
       layout: page
       read_time: false
-  # _presentations
+      excerpt_separator: "<!--more-->"
+# _presentations
   - scope:
       path: "_presentations"
       type: presentations

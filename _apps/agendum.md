@@ -1,7 +1,6 @@
 ---
 title: Agendum
 app_id: 1437361485
-excerpt_separator: "<!--more-->"
 date: 2020-05-30 12:00:00-0600
 ---
 

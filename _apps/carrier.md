@@ -1,7 +1,6 @@
 ---
 title: Carrier
 app_id: 1027638921
-excerpt_separator: "<!--more-->"
 date: 2022-08-05 14:30:00-0600
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Pointedly
 app_id: 933257819
-excerpt_separator: "<!--more-->"
 date: 2021-09-20 12:00:00-0600
 ---
 
