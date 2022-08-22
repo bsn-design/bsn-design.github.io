@@ -35,6 +35,7 @@ markdown: kramdown
 plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-include-cache
 permalink:    /:year/:month/:day/:title
 
 # Exclude from processing.
