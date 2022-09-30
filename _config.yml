@@ -32,9 +32,11 @@ tag_archive_path: /tags/
 
 # Build settings
 markdown: kramdown
+remote_theme: benjaminsnorris/bennorris.com
 plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
   - jekyll-include-cache
 permalink:    /:year/:month/:day/:title
 
