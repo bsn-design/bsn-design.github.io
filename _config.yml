@@ -86,7 +86,7 @@ defaults:
       path: "_apps"
       type: apps
     values:
-      layout: page
+      layout: app
       read_time: false
       excerpt_separator: "<!--more-->"
 # _presentations

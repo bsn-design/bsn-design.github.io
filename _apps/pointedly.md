@@ -2,6 +2,7 @@
 title: Pointedly
 app_id: 933257819
 date: 2021-09-20 12:00:00-0600
+subscribe-tag: Pointedly
 ---
 
 ![Pointedly](/assets/images/PointedlyIcon.png){:.app-icon}
