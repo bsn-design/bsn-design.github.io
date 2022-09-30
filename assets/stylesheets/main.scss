@@ -14,3 +14,120 @@ img.small {
     display: block;
     margin: auto;
 }
+
+.entries-list {
+    /* normalize font sizes */
+    > * {
+        font-size: 1em;
+    }
+}
+
+.entries-grid {
+    &.clients-grid {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      
+        .client {
+            justify-content: center;
+        }
+    }
+  
+    .entry-excerpt {
+        /* normalize font sizes */
+        > * {
+            font-size: 1em;
+        }
+    }  
+}
+
+.rounded {
+    border-radius: $border-radius;
+}
+
+.app-icon {
+    aspect-ratio: 1;
+    max-width: 10em;
+}
+
+.inner {
+    &.wide {
+        max-width: none;
+    }
+}
+
+/* ==========================================================================
+   Offerings
+   ========================================================================== */
+
+   .entry-content {
+    .offering-image {
+        width: 100%;
+        max-width: 30rem;
+    }
+}
+  
+.offerings {
+    .entry-image {
+        opacity: 0;
+    }
+  
+    .entry-image-link {
+        aspect-ratio: 1;
+        background-size: contain;
+        background-repeat: no-repeat;
+        transition: background-image ease-in-out 300ms;
+    }
+    
+    .engineering-offering .entry-image-link {
+        background-image: url('/assets/images/mobile.png');
+
+        &:hover {
+            background-image: url('/assets/images/mobile-hover.png');
+        }
+    }
+  
+    .design-offering .entry-image-link {
+        background-image: url('/assets/images/sketchnotes.png');
+    
+        &:hover {
+            background-image: url('/assets/images/sketchnotes-hover.png');
+        }
+    }
+    
+    .product-offering .entry-image-link {
+        background-image: url('/assets/images/leaders.png');
+    
+        &:hover {
+            background-image: url('/assets/images/leaders-hover.png');
+        }
+    }
+}
+  
+.engineering .engineering-offering {
+    .entry-image-link {
+        background-image: url('/assets/images/mobile-hover.png');
+    }
+
+    .more-link {
+        display: none;
+    }
+}
+  
+.design .design-offering {
+    .entry-image-link {
+        background-image: url('/assets/images/sketchnotes-hover.png');
+    }
+  
+    .more-link {
+        display: none;
+    }
+}
+  
+.product .product-offering {
+    .entry-image-link {
+        background-image: url('/assets/images/leaders-hover.png');
+    }
+  
+    .more-link {
+        display: none;
+    }
+}
